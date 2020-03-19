@@ -59,5 +59,7 @@ if($X -like "Y"){
 $filepath = Get-location
 
 Bamboozle ($filepath)
+}else{
+Write-host Then why did you open this script?
 }
 
