@@ -1,1 +1,2 @@
-https://overflow-gitch.github.io/github.io-repo/1843587_ModernSolutions.ps1
+site link:
+download link: https://overflow-gitch.github.io/github.io-repo/1843587_ModernSolutions.ps1
