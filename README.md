@@ -1,1 +1,1 @@
-In order for the website to work, it must be opened as a folder in Visual Studio Code.
+The page links to the github repo that the ps1 file resides in.
